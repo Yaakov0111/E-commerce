@@ -9,7 +9,6 @@ const NotFound = () => {
 	};
 
 	return (
-		// Esta clase asegura que el div exterior ocupe el 100% de la altura y anchura de la pantalla
 		<div className="w-full h-screen flex items-center justify-center bg-gray-100">
 			<div className="bg-white shadow-xl rounded-lg p-8 text-center w-full">
 				<h1 className="text-6xl font-bold text-gray-800 mb-6">404</h1>
